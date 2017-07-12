@@ -1,0 +1,40 @@
+2017-06-20 10:31:07,303 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on SHA-Q06060086 with PID 3992 (D:\326944\Downloads\spring-boot-sample-MySQL\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-MySQL)
+2017-06-20 10:31:07,303 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-20 10:31:07,303 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-20 10:31:54,202 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on SHA-Q06060086 with PID 6032 (D:\326944\Downloads\spring-boot-sample-MySQL\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-MySQL)
+2017-06-20 10:31:54,202 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-20 10:31:54,202 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-20 10:35:42,889 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on SHA-Q06060086 with PID 4564 (D:\326944\Downloads\spring-boot-sample-MySQL\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-MySQL)
+2017-06-20 10:35:42,889 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-20 10:35:42,889 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-20 10:42:59,082 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on SHA-Q06060086 with PID 2132 (D:\326944\Downloads\spring-boot-sample-MySQL\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-MySQL)
+2017-06-20 10:42:59,082 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-20 10:42:59,082 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-20 10:43:02,891 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 4.06 seconds (JVM running for 4.388)
+2017-06-20 10:43:10,959 DEBUG (HelloController.java:16)- 访问hello
+2017-06-20 10:43:18,525 DEBUG (HelloController.java:23)- 访问helloName,Name=kcdj cs
+2017-06-20 10:52:24,532 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on SHA-Q06060086 with PID 6652 (D:\326944\Downloads\spring-boot-sample-MySQL\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-MySQL)
+2017-06-20 10:52:24,532 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-20 10:52:24,532 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-20 10:52:28,217 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 3.95 seconds (JVM running for 4.247)
+2017-06-20 10:52:38,702 DEBUG (DataController.java:28)- save 开始
+2017-06-20 10:52:38,842 DEBUG (DataController.java:30)- save 结束
+2017-06-20 10:52:55,519 DEBUG (DataController.java:28)- save 开始
+2017-06-20 10:52:55,583 DEBUG (DataController.java:30)- save 结束
+2017-06-20 10:53:05,348 DEBUG (DataController.java:28)- save 开始
+2017-06-20 10:53:05,396 DEBUG (DataController.java:30)- save 结束
+2017-06-20 10:53:19,851 DEBUG (DataController.java:28)- save 开始
+2017-06-20 10:53:19,899 DEBUG (DataController.java:30)- save 结束
+2017-06-20 10:53:58,043 DEBUG (DataController.java:28)- save 开始
+2017-06-20 10:53:58,122 DEBUG (DataController.java:30)- save 结束
+2017-06-20 10:54:08,293 DEBUG (DataController.java:44)- q2 开始
+2017-06-20 10:54:08,293 DEBUG (DataController.java:45)- q2接收参数name=aa,address=北京
+2017-06-20 10:54:16,780 DEBUG (DataController.java:51)- q3 开始
+2017-06-20 10:54:16,780 DEBUG (DataController.java:52)- q3接收参数name=aa,address=北京
+2017-06-20 10:54:25,033 DEBUG (DataController.java:58)- sort 开始
+2017-06-20 10:54:36,548 DEBUG (DataController.java:65)- page 开始
+2017-06-20 16:48:08,202 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMySqlApplication on SHA-Q06060086 with PID 3380 (D:\326944\Downloads\spring-boot-sample-MySQL\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-MySQL)
+2017-06-20 16:48:08,218 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-20 16:48:08,218 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-20 16:48:16,979 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMySqlApplication in 10.073 seconds (JVM running for 11.884)
+2017-06-20 16:48:44,355 DEBUG (DataController.java:58)- sort 开始
